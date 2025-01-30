@@ -1,8 +1,8 @@
-# Python FastAPI Serializers and Controllers Solution
+# Python FastAPI Serializers and Controllers Lab Solution
 
 ## About
 
-This repo contains the solution code for the [Python FastAPI Serializers and Controllers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-fastapi-serializers-and-controllers/canvas-landing-pages/fallback.html) Lesson.
+This repo contains the solution code for the [Python FastAPI Serializers and Controllers Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-fastapi-serializers-and-controllers-lab/canvas-landing-pages/fallback.html)
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ This repo contains the solution code for the [Python FastAPI Serializers and Con
 2. Navigate into the project directory:
 
 ```sh
- cd python-fastapi-serializers-and-controllers-solution
+ cd python-fastapi-serializers-and-controllers-lab-solution
 ```
 
 3. Install dependencies (this also creates the virtual environment if it doesn’t exist):
