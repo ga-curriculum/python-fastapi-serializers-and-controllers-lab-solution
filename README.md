@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains the solution code for the [Python FastAPI Serializers and Controllers Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-fastapi-serializers-and-controllers-lab/canvas-landing-pages/fallback.html)
+This repo contains the solution code for the [Python FastAPI Serializers and Controllers Lab](https://ga-curriculum.github.io/python-fastapi-serializers-and-controllers-lab/canvas-landing-pages/fallback.html)
 
 ## Getting Started
 
